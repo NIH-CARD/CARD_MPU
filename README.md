@@ -4,7 +4,6 @@
 **Computational biology · Single-cell transcriptomics · Spatial transcriptomics · **
 
 ![Python](https://img.shields.io/badge/Python-3.11+-1D9E75?style=flat-square&logo=python&logoColor=white)
-![Scanpy](https://img.shields.io/badge/Scanpy-1.9+-7F77DD?style=flat-square)
 ![R](https://img.shields.io/badge/R-4.0+-276DC3?style=flat-square&logo=r&logoColor=white)
 
 This is a landing page for all of the code created and used by the Molecular Pathology Unit!
