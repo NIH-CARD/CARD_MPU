@@ -1,3 +1,6 @@
 [submodule "Thalamus_atlas_differential_gene_expression"]
 	path = Thalamus_atlas_differential_gene_expression
 	url = https://github.com/ambertrujillo/Thalamus_atlas_differential_gene_expression.git
+[submodule "Thalamus_atlas/Thalamus_atlas_differential_gene_expression"]
+	path = Thalamus_atlas/Thalamus_atlas_differential_gene_expression
+	url = https://github.com/ambertrujillo/Thalamus_atlas_differential_gene_expression.git
