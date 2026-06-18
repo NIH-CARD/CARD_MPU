@@ -7,3 +7,6 @@
 [submodule "Thalamus_atlas/Pseudobulked_differential_gene_expression"]
 	path = Thalamus_atlas/Pseudobulked_differential_gene_expression
 	url = https://github.com/ambertrujillo/Thalamus_atlas_differential_gene_expression.git
+[submodule "Thalamus_atlas/Differential_cell_type_proportion"]
+	path = Thalamus_atlas/Differential_cell_type_proportion
+	url = https://github.com/ambertrujillo/Thalamus_atlas_differential_cell_type_proportion.git
