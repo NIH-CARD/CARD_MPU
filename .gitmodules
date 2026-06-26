@@ -10,3 +10,6 @@
 [submodule "Thalamus_atlas/Differential_cell_type_proportion"]
 	path = Thalamus_atlas/Differential_cell_type_proportion
 	url = https://github.com/ambertrujillo/Thalamus_atlas_differential_cell_type_proportion.git
+[submodule "Thalamus_atlas/Cell_cell_communication"]
+	path = Thalamus_atlas/Cell_cell_communication
+	url = https://github.com/ambertrujillo/Thalamus_atlas_cell_cell_communication.git
