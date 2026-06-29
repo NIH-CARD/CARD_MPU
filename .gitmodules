@@ -13,3 +13,6 @@
 [submodule "Thalamus_atlas/Cell_cell_communication"]
 	path = Thalamus_atlas/Cell_cell_communication
 	url = https://github.com/ambertrujillo/Thalamus_atlas_cell_cell_communication.git
+[submodule "th_atlas"]
+	path = th_atlas
+	url = git@github.com:Mira0507/th_atlas.git
