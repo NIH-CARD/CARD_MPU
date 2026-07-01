@@ -19,7 +19,5 @@ Trujillo et al. (in prep)
 
 ## The Thalamus atlas repository includes
 - 📁 Analysis code for each publication (Python notebooks, R scripts)
-- 🗂️ Processed data links and download instructions
-- 📦 Environment files (`environment.yml` / `renv.lock`) for reproducibility
 - 📖 Methods documentation and parameter choices
 - 🔗 Links to raw data on GEO / Zenodo / Synapse
