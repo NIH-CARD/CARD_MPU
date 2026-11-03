@@ -13,7 +13,7 @@ This is a landing page for all of the code created and used by the Molecular Pat
 ---
 ## Publications
 ### Thalamus atlas
-Trujillo et al. (in prep)
+Trujillo et al. (in review)
 
 [![Data](https://img.shields.io/badge/Github-Thalamus_Atlas-orange)](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)
 
