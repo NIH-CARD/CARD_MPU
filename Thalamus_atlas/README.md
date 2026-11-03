@@ -1,5 +1,7 @@
 ## What's in this repo
 
+Each repository contains a link to the pipeline of interest (below). Pipelines are split between repos to maintain independence of method.
+
 | | Analysis | Tools |
 |---|---|---|
 | 📡 | **Cell-cell communication** — ligand-receptor interaction analysis across cell types | CellChat |
