@@ -20,4 +20,4 @@ Trujillo et al. (in review)
 ## The Thalamus atlas repository includes
 - 📁 Analysis code for each publication (Python notebooks, R scripts)
 - 📖 Methods documentation and parameter choices
-- 🔗 Links to raw data on GEO / Zenodo / Synapse
+- 🔗 Links to raw data on GEO / Zenodo / Synapse will be added upon publication
