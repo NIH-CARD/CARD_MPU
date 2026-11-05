@@ -26,22 +26,7 @@ All analyses start from the same annotated, integrated atlas. The two cell-type-
 
 ## Getting the code
 
-Clone with submodules so each analysis repository is pulled at the pinned commit:
-
-```bash
-git clone --recurse-submodules [<[this-repo-url](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)>](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)
-
-# if you already cloned without submodules
-git submodule update --init --recursive
-```
-
-Each submodule is pinned to a specific commit. To move one to its latest version:
-
-```bash
-git submodule update --remote Pseudobulked_differential_gene_expression
-git add Pseudobulked_differential_gene_expression
-git commit -m "Update Pseudobulked DEG submodule"
-```
+You must clone a specific submodule and cannot clone all submodules at once. 
 
 ## Shared conventions
 
