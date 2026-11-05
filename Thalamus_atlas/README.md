@@ -29,7 +29,7 @@ All analyses start from the same annotated, integrated atlas. The two cell-type-
 Clone with submodules so each analysis repository is pulled at the pinned commit:
 
 ```bash
-git clone --recurse-submodules <this-repo-url>
+git clone --recurse-submodules <[this-repo-url](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)>
 
 # if you already cloned without submodules
 git submodule update --init --recursive
