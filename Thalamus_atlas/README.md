@@ -13,7 +13,7 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 
 ## Workflow
 
-All analyses start from the same annotated, integrated atlas. The two cell-type-resolved analyses (DEG and communication) can be run independently. STMN2 cryptic exon detection starts from raw alignments instead of the atlas.
+All analyses start from the same annotated, integrated atlas. 
 
 ## Inputs and outputs at a glance
 
