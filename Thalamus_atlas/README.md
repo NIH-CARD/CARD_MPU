@@ -6,7 +6,7 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 
 | I want to... | Go to | Tools |
 |---|---|---|
-| Test whether cell-type abundance differs by disease | [`Differential_cell_type_proportion`](./Differential_cell_type_proportion) | Propeller |
+| Test whether cell-type abundance differs by disease | [`Differential_cell_type_proportion`]([./Differential_cell_type_proportion](https://github.com/ambertrujillo/Thalamus_atlas_cell_cell_communication.git)) | Propeller |
 | Find disease-associated genes within each cell type | [`Pseudobulked_differential_gene_expression`](./Pseudobulked_differential_gene_expression) | RUVSeq, DESeq2 |
 | Compare ligand-receptor signaling between conditions | [`Cell_cell_communication`](./Cell_cell_communication) | CellChat |
 | Detect STMN2 cryptic exons and check spatial expression | [`STMN2_CE_and_Spatial_Omics`](./STMN2_CE_and_Spatial_Omics) | Regtools, LeafCutter, Visium, Seurat |
