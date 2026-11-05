@@ -9,7 +9,7 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 | Test whether cell-type abundance differs by disease | [`Differential_cell_type_proportion`](https://github.com/ambertrujillo/Thalamus_atlas_differential_cell_type_proportion.git) | Propeller |
 | Find disease-associated genes within each cell type | [`Pseudobulked_differential_gene_expression`](https://github.com/ambertrujillo/Thalamus_atlas_differential_gene_expression.git) | RUVSeq, DESeq2 |
 | Compare ligand-receptor signaling between conditions | [`Cell_cell_communication`](https://github.com/ambertrujillo/Thalamus_atlas_cell_cell_communication.git) | CellChat |
-| Detect STMN2 cryptic exons and check spatial expression | [`STMN2_CE_and_Spatial_Omics`](git@github.com:Mira0507/th_atlas.git) | Regtools, LeafCutter, Visium, Seurat |
+| Detect STMN2 cryptic exons and check spatial expression | [`STMN2_CE_and_Spatial_Omics`](https://github.com/Mira0507/th_atlas.git) | Regtools, LeafCutter, Visium, Seurat |
 
 ## Workflow
 
