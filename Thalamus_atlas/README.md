@@ -22,14 +22,14 @@ All analyses start from the same annotated, integrated atlas. The two cell-type-
 | Differential cell-type proportion | Atlas metadata: one row per cell with sample ID, cell type, disease, and covariates | Per-sample cell-type proportions; per-cell-type test statistics (effect size, p-value, FDR) |
 | Pseudobulked DEG | Atlas counts and cell-type annotation; sample metadata (disease, sex, age at death, PMI, cohort) | Per cell type and disease: pseudobulk count matrix, RUVSeq factors (`metadata_RUVs_k*.csv`), DESeq2 results (log2FC, shrunken log2FC, adjusted p-value) |
 | Cell-cell communication | Atlas expression and cell-type labels, split by condition | One CellChat object per condition; comparative interaction and pathway plots |
-| STMN2 CE and spatial omics |  | Cryptic exon junction counts and calls per sample; spatial expression maps |
+| STMN2 CE and spatial omics |  |  |
 
 ## Getting the code
 
 Clone with submodules so each analysis repository is pulled at the pinned commit:
 
 ```bash
-git clone --recurse-submodules <[this-repo-url](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)>
+git clone --recurse-submodules [<[this-repo-url](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)>](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)
 
 # if you already cloned without submodules
 git submodule update --init --recursive
