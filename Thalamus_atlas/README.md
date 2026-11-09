@@ -14,7 +14,7 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 ## Workflow
 
 ### Cell type Proportion analysis 
-![screenshot](images/cell_type_proportion_workflow.pdf)
+![screenshot](images/cell_type_proportion_workflow.png)
 
 
 ## Inputs and outputs at a glance
