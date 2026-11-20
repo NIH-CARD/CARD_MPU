@@ -13,13 +13,13 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 
 ## Workflow
 
-### Differential cell type proportion  
+### <ins>Differential cell type proportion</ins>  
 ![screenshot](images/cell_type_proportion_workflow.png)
 
-### Pseudobulked differential gene expression
+### <ins>Pseudobulked differential gene expression</ins>
 ![screenshot](images/RUVseq.png)
 
-### Cell cell communicaiton
+### <ins>Cell cell communicaiton</ins>
 ![screenshot](images/cell_cell_communication.png)
 
 ## Inputs and outputs at a glance
