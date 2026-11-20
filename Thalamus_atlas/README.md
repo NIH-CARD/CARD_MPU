@@ -26,9 +26,9 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 
 | Module | Inputs | Outputs |
 |---|---|---|
-| Differential cell-type proportion | Atlas (Annotated.h5ad): one row per cell with sample ID, cell type, disease, and covariates | Per-sample cell-type proportions (Proportions.csv); per-cell-type test statistics (effect size, p-value, FDR)({contrasts}_DCTP.csv |
-| Pseudobulked DEG | Atlas counts and cell-type annotation; sample metadata (disease, sex, age at death, PMI, cohort) | Per cell type and disease: pseudobulk count matrix, RUVSeq factors (`metadata_RUVs_k*.csv`), DESeq2 results (log2FC, shrunken log2FC, adjusted p-value) |
-| Cell-cell communication | Atlas expression and cell-type labels, split by condition | One CellChat object per condition; comparative interaction and pathway plots |
+| Differential cell-type proportion | Atlas (thalamus_adata.h5ad): one row per cell with sample ID, cell type, disease, and covariates | Per-sample cell-type proportions (Proportions.csv); per-cell-type test statistics (effect size, p-value, FDR)({contrasts}_DCTP.csv |
+| Pseudobulked DEG | Raw counts (counts.csv) and metadata (metadata.csv) can be retrieved from thalamus_adata.h5ad. | Per cell type and disease: pseudobulk count matrix, RUVSeq factors (`metadata_RUVs_k*.csv`), DESeq2 results (log2FC, shrunken log2FC, adjusted p-value) |
+| Cell-cell communication | Atlas expression and cell-type labels, split by condition. This can be retrieved by subsetting FTD and Control from the "general_disease" column of thalamus_adata.h5ad | One CellChat object per condition; comparative interaction and pathway plots |
 | STMN2 CE and spatial omics |  |  |
 
 ## Shared conventions
