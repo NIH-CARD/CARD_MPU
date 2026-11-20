@@ -19,6 +19,9 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 ### Pseudobulked differential gene expression
 ![screenshot](images/RUVseq.png)
 
+### Cell cell communicaiton
+![screenshot](images/cell_cell_communication.png)
+
 ## Inputs and outputs at a glance
 
 | Module | Inputs | Outputs |
