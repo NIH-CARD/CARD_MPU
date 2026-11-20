@@ -31,17 +31,17 @@ Landing repository for the downstream analyses of the multi-cohort thalamus sing
 | Cell-cell communication | Atlas expression and cell-type labels, split by condition | One CellChat object per condition; comparative interaction and pathway plots |
 | STMN2 CE and spatial omics |  |  |
 
-## Getting the code
-
-You must clone a specific submodule and cannot clone all submodules at once. 
-
 ## Shared conventions
 
 - **Cell-type names** must match between modules (for example `ExNeu RNF220+`, `InNeu SOX14-`, `Astrocyte`, `OL`, `OPC`, `Microglia`, `BVC`). Use the atlas annotation column as the single source of truth.
 - **Unit of replication** is the sample (donor), never the cell.
 - **Disease sets** are analyzed separately (AD versus control, FTD versus control).
 
+## Getting the code
+
+You must clone a specific submodule and cannot clone all submodules at once. 
+
 ## Data availability
 
-Processed and raw data will be available upon publication of <manuscript link>
+Processed and raw data will be available upon publication.
 
