@@ -13,7 +13,7 @@ This is a landing page for all of the code created and used by the Molecular Pat
 ---
 ## Publications
 ### Thalamus atlas
-Trujillo AE, Sohn M, Macias MJ, Grochowska MM, Joyce J, Leber I, Huh D, Schulmann A, McMahon FJ, Van Keuren-Jensen K, Latouche M, Marsan E. Selective vulnerability and resilience of thalamic neuronal populations in Frontotemporal Dementia. (In Revision). 
+Trujillo AE et al. Selective vulnerability and resilience of thalamic neuronal populations in Frontotemporal Dementia. (In Revision). 
 
 [![Data](https://img.shields.io/badge/Github-Thalamus_Atlas-orange)](https://github.com/NIH-CARD/CARD_MPU/tree/main/Thalamus_atlas)
 
