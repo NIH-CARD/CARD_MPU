@@ -1,6 +1,6 @@
 # Thalamus Atlas: Analysis Hub
 
-Landing repository for the downstream analyses of the multi-cohort thalamus single-nucleus RNA-seq atlas (Alzheimer's disease and frontotemporal dementia). Each analysis lives in its own repository, linked here as a Git submodule, so methods stay independent and can be versioned and run separately.
+Landing repository for the downstream analyses of the multi-cohort thalamus single-nucleus RNA-seq atlas (Alzheimer's disease and frontotemporal dementia). Each analysis lives in its own repository, linked here as a Git submodule, so methods stay independent and can be versioned and run separately. Data used in these analyses will be made available upon publication.
 
 ## Start here
 
